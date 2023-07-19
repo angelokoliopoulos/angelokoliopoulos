@@ -1,8 +1,5 @@
-<h3 align="center">An aspiring Full stack web developer</h3>
+<h3 align="center">Full stack web developer</h3>
 
-- 🔭 I’m currently working on [Quiz Application](https://github.com/angelokoliopoulos/Quiz-App)
-
-- 🌱 I’m currently learning **NodeJS,ExpressJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
